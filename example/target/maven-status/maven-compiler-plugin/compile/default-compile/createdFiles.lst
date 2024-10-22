@@ -1,0 +1,15 @@
+com\alibou\example\student\StudentService.class
+com\alibou\example\student\StudentDto.class
+com\alibou\example\school\SchoolDto.class
+com\alibou\example\school\SchoolController.class
+com\alibou\example\studentprofile\StudentProfile.class
+com\alibou\example\student\StudentResponseDto.class
+com\alibou\example\school\SchoolRepository.class
+com\alibou\example\ExampleApplication.class
+com\alibou\example\school\SchoolMapper.class
+com\alibou\example\student\StudentController.class
+com\alibou\example\student\Student.class
+com\alibou\example\student\StudentMapper.class
+com\alibou\example\school\School.class
+com\alibou\example\student\StudentRepository.class
+com\alibou\example\school\SchoolService.class
